@@ -1,0 +1,14 @@
+{
+	"name": "literary-universe",
+	"version": "0.1.0",
+	"description": "Review Literary Universe stories with the website assistant's workflows, and review encyclopedia changes before saving.",
+	"author": {
+		"name": "Literary Universe",
+		"email": "hello@literaryuniverse.com",
+		"url": "https://literaryuniverse.com"
+	},
+	"homepage": "https://literaryuniverse.com",
+	"keywords": ["writing", "stories", "worldbuilding", "encyclopedia"],
+	"logo": "./assets/icon.png",
+	"skills": "./skills/"
+}

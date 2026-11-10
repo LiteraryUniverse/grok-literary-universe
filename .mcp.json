@@ -1,0 +1,14 @@
+{
+	"mcpServers": {
+		"literary-universe": {
+			"type": "http",
+			"url": "https://literaryuniverse.com/mcp?tools=list-stories,get-story,list-chapters,get-chapter-draft,list-universes,get-universe,list-encyclopedia-entries,get-encyclopedia-entry,list-series,get-identity,create-encyclopedia-entry,update-encyclopedia-entry,translate-encyclopedia-entry,search-lu-docs,fetch-lu-docs,assistant",
+			"oauth_scopes": [
+				"story:read",
+				"universe:read",
+				"universe:write",
+				"universe:translate"
+			]
+		}
+	}
+}
